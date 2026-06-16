@@ -8,7 +8,7 @@
 
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/></a>
 
-<a href="https://www.w3schools.com/java/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://www.citypng.com/public/uploads/preview/hd-java-programming-logo-png-701751694771848sm650yaqjt.png"></a>
+<a href="https://www.w3schools.com/java/" target="_blank"> <img align="left" alt="C++" width="26px" src="https://images.seeklogo.com/logo-png/30/2/java-logo-png_seeklogo-304978.png"></a>
 
 
 <br/>
